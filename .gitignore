@@ -1,0 +1,16 @@
+# Environments
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Hackathon Data (DO NOT UPLOAD IMAGES TO GITHUB)
+data/
+models/
+*.pt
+*.pth
+
+# OS generated files
+.DS_Store
